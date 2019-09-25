@@ -106,6 +106,21 @@
     "fr-FR": {
       "Static": {
         "WelcomeSsml": "Bienvenue à <sub alias=\"Octo Vox\">OctoVox</sub>! Comment puis-je vous aider?"
+        "Demo1": "Voici un exemple de réponse: Votre imprimante est en cours d'impression. La température de le tête de chauffe est à 220 degrés. La température du lit est à 60 degrés. L'impression est court est Spool_Holder_15_millimeter<sub alias=\"dot gee code\">.gcode</sub>. L'impression en court est à 25%. Le temp restant estimé est 3 heures, 20 minutes, 14 secondes.",
+        "Demo2": "Voici un exemple de réponse: Votre imprimante est en attente. La température de le tête de chauffe est à 72 degrés. La température du lit est à 27,5 degrés. Li'mpression précédente Spool_Holder_15_millimeter<sub alias=\"dot gee code\">.gcode</sub> à fini en 3 heures, 20 minutes, 14 secondes.",
+       // "HelpMessage": "With the <sub alias=\"Octo Vox\">OctoVox</sub> skill you can get information about your OctoPrint connected 3-D printer from your Amazon Echo devices. You can say things like: ask my 3-D print server for my printer status, or, ask my 3-D print server what is printing. You can also say, \"Demo\", to hear a sample response.",
+       // "HelpAccountLink": "This skill will require you to create and link an account to use most of the features. We have delivered a LinkAccount home card to the Alexa App. Please go to the Alexa App to setup your account.",
+       // "Prompt": "What would you like to do next?",
+       // "HelpPrompt": "How can I help you?",
+       // "Goodbye": "Thanks for using <sub alias=\"Octo Vox\">OctoVox.</sub>.",
+       // "Fallback": "I'm not sure exactly what you asked for, or I have not yet been configured for that task. Here is your printer status.",
+       // "AccountLinkWelcome": "Welcome to <sub alias=\"Octo Vox\">OctoVox</sub>! This skill requires account linking. We have delivered a LinkAccount home card to the Alexa App. Please go to the Alexa App to setup your account. You can also say, \"Help\", for more information. What would you like to do next?",
+       // "AccountLink": "This skill requires account linking. We have delivered a LinkAccount home card to the Alexa App. Please go to the Alexa App to setup your account. You can also say, \"Help\", for more information. What would you like to do next?",
+       // "HelpMessageGoogle": "With the OctoVox action you can get information about your OctoPrint connected 3-D printer from your Google Home devices. You can say things like: ask my 3-D print server for my printer status, or, ask my 3-D print server what is printing.",
+       // "HelpMessageLinkGoogle": "In order to use this app, you will need to link your OctoVox account with Google. You can say, \"Link Account\", to start that process. You can also say, \"Demo\", to hear a sample response.",
+       // "AccountLinkGoogle": "It appears you have not yet linked your OctoVox account with Google. Please say, \"Link Account\", to begin the setup. You can also say, \"Help\", for more information.",
+       // "AccountLinkGoogleReprompt": "Please say \"Link Account\" to continue with account linking",
+       // "StopString": "Thanks for using OctoVox!"
       }
     },
     "hi-IN": {
